@@ -6,4 +6,4 @@ author: Ali Hajian
 date: 8/6/2025
 theme: jekyll-theme-cayman
 ---
-![ali-hajiann](https://github.com/ali-hajiann/ali-hajiann.github.io/blob/main/SPSP%202025.jpg)
+![ali-hajiann](assets\images\SPSP2025.jpg)
