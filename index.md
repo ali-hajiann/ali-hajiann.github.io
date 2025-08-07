@@ -6,9 +6,3 @@ author: Ali Hajian
 date: 8/6/2025
 theme: jekyll-theme-cayman
 ---
-
-# What I have been up to so far, in no particular order
-
-## 
-
-![ali-hajiann](assets\images\SPSP2025resized.jpg)
