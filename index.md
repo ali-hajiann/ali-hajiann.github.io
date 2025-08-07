@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Ali Hajian's Website
-description: I am a PhD student in the Department of Psychological and Brain Sciences at the University of Massachusetts Amherst. My research focuses on the role morality plays in conflict between groups of people, both in the past and present. I am also interested in how people use moral reasoning to justify their actions, and how this can lead to conflict or resolution.
+description: I am a PhD student in the Department of Psychological and Brain Sciences at the University of Massachusetts Amherst. My research focuses on the role morality plays in conflict between groups of people, both in the past and present.
+[About](./about.md).
 author: Ali Hajian
 date: 8/6/2025
 theme: jekyll-theme-cayman
 ---
+
+# What I have benn up to so far, in no particular order
+
+## 
+
 ![ali-hajiann](assets\images\SPSP2025resized.jpg)
