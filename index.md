@@ -27,6 +27,8 @@ theme: jekyll-theme-cayman
   <img src="assets/images/list-right.svg" alt="Icon" class="work-icon">
   <div class="work-text">
     <strong>Test.<br>Test!</strong><br>
-    I am currently Test...
+    I am currently Test...I am currently Test...I am currently Test...I am currently Test...I am currently Test...I am currently Test...I am currently Test...I am currently Test... I am currently Test...I am currently Test...I am currently Test...I am currently Test... I am currently Test...I am currently Test...I am currently Test...
+
+    I am currently Test...I am currently Test...I am currently Test...I am currently Test...
   </div>
 </div>
