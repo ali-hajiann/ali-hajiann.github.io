@@ -15,7 +15,7 @@ From June 30th to July 11th, I had the honor of attending SICSS at UPenn. I had 
 
 ![SPSP2025](assets\images\SPSP2025resized.jpg)
 
-In February 2025, I was presenting my poster on how gender moderates the relationship between morality and political ideology in Denver at the annual SPSP conference. I found that the relationship is stronger for men compared to women. This was also my first in-person conference!
+In February 2025, I was presenting my poster on how [gender moderates the relationship between morality and political ideology]("assets/images/The Moderating Effect of Gender on the Relationship Between Moral Foundations and Political Opinion in the U.S..pdf") in Denver at the annual SPSP conference. I found that the relationship is stronger for men compared to women. This was also my first in-person conference!
 
 ## Linking Pain with Irrational Beliefs
 
