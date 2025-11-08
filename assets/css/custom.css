@@ -2,10 +2,10 @@
   background-image: 
     linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), /* transparent overlay */
     url('/assets/images/The_Fall_of_the_Rebel_Angels.jpg') !important;                    /* your image path */
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  color: white !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
 }
 
 body {
