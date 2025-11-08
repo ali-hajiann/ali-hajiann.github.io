@@ -1,22 +1,23 @@
+/* --- Custom header background --- */
 .page-header {
-  background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), /* transparent overlay */
-    url('/assets/images/The_Fall_of_the_Rebel_Angels.jpg');                    /* your image path */
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url('/assets/images/The_Fall_of_the_Rebel_Angels.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   color: white;
 }
 
+/* --- Optional site background --- */
 body {
-  background-image: url('/assets/images/The_Court_of_Gayumars.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+  background: url('/assets/images/The_Court_of_Gayumars.jpg') center/cover fixed no-repeat;
+  background-color: #fff;
 }
 
+/* --- Optional: soften content area for readability --- */
 .main-content {
-  background-color: rgba(255, 255, 255, 0.9); /* 90% opaque white layer */
-  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.95);
   border-radius: 12px;
+  padding: 2rem;
 }
