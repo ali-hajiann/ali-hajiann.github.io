@@ -1,6 +1,6 @@
 .page-header {
   background-image: 
-    linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), /* transparent overlay */
+    linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), /* transparent overlay */
     url('/assets/images/The_Fall_of_the_Rebel_Angels.jpg');                    /* your image path */
   background-size: cover;
   background-position: center;
