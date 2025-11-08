@@ -1,6 +1,6 @@
 .page-header {
   background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), /* transparent overlay */
+    linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)), /* transparent overlay */
     url('/assets/images/The_Fall_of_the_Rebel_Angels.jpg');                    /* your image path */
   background-size: cover;
   background-position: center;
@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url('/assets/images/The_Court_of_Gayumars.jpg');
+  background-image: url('/assets/images/Court_of_Qyumars_Cropped.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
