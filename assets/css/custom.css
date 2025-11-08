@@ -1,10 +1,10 @@
 .page-header {
   background-image:
-    linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), /* transparent overlay */
+    linear-gradient(120deg, rgba(21,87,153,0.7), rgba(21,153,87,0.7)), /* transparent overlay */
     url('/assets/images/The_Fall_of_the_Rebel_Angels.jpg');                    /* your image path */
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;;
+  background-repeat: no-repeat;
   color: white;
 }
 
